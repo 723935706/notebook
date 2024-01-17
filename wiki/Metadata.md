@@ -9,3 +9,5 @@ Structural metadata -  Data that establishes the organization and structure of a
 Administrative metadata -  Metadata that provides information about the management and use of a data asset, including its ownership, access rights, retention policies, and data quality measures. It helps users understand how the data asset should be managed, stored, and used.
 
 Metadata is critical for effective data management, as it enables users to easily find, access, and use data assets. It also helps organizations ensure data quality and compliance by providing a framework for managing data lineage, data security, and data governance.
+
+https://www.dremio.com/wiki/data-catalog/
